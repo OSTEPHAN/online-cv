@@ -49,27 +49,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Breton d'origine, j'ai découvert la région Auvergne et suivi le cursus informatique 
+        de l'ISIMA à Clermont-Ferrand, où je me suis spécialisé en architecture logicielle. 
+        Mon experience professionnelle variee a Paris, Lyon puis Sophia m'a permis de 
+        consolider des competences certaines et reconnues par mes pairs. 
+        Une expertise que je mets quotidiennement au service de mon equipe de 15 personnes, 
+        et que j'accompagne avec une approche moderne du management. 
+        Humour, bienveillance et curiosite restent trois mots que je partage dans cette 
+        philosophie pour nourrir et faire grandir le collectif.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Engineering School Degree in Computer Science
+      university: ISIMA, ENSI, Clermont-Ferrand
+      time: 2001 - 2004
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -153,69 +144,52 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Orchard OData plugin
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Thrarin
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Atom
+      - title: Phone Choice Helper
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
+      You can list your certifications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Microsoft Cloud Computing Developer
+        conference: AI Fundamentals, 2021
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Microsoft Certified Web Solution Developer
+        conference: Javascript, C#, ASP.Net MVC, 2015
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C# & .Net Core
         level: 98%
+
+      - name: Python
+        level: 70%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Java Spring Boot
+        level: 65%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: K8S & Service Fabric
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Azure Cognitive Services
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
