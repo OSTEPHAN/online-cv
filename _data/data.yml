@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Olivier STEPHAN
-    tagline: Cloud Solution Architect
+    tagline: Senior Software Engineering Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -79,43 +79,73 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Sofware Development Team Leader 
+      time: 2016 - Present
+      company: Orange, Mougins
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I am a technical leader involved in key strategic products 
+        that leverage skills and new ways of working within a team focused on data and AI. 
+        My main responsabilities are about designing a configurable voice assistant for different business units, 
+        consolidating tools for research upon edge AI, 
+        and also building features to automate data treatment during continuous delivery of projects. 
+        All of these projects are hosted on a private and internal cloud platform, 
+        but hybrid architecture is a target we are looking for with help of different identified providers. 
+        I am truly involved by the way with other companies in Sophia Antipolis to share open knowledge on these topics 
+        within an industrial consortium that aims to start cross-innovation. 
+        I prepare and present regular technical reviews to directors and even at group CEO level. 
+        My role in project is to lead and enhance a digital transformation transversal to the Group 
+        while propagating software culture and coding main components that 
+        will be baseline in present or future deliveries. 
+        I lead a team of dozen people dispatched in several projects 
+        that combine several forces from researchers, designers, developpers 
+        but also operationals. 
+        SAFe is a standard that we assume, 
+        but I often use to say that agility may be resumed in only three words 
+        adaptability, communication and collaboration.
+          - Software Craftmanship
+          - Servant Leadership
+          - Product Lifecycle Management
+    - role: Software Architect
+      time: 2011 - 2016
+      company: Orange Business Services, Valbonne
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        My main role was about designing and consolidating a C# portfolio 
+        during all customer digital journey from ticket selling 
+        until access controlling in arenas like le Stade de France. 
+        One feature I had to develop with researchers was to provide APIs 
+        compliant with a newly protocol called NFC. 
+        These APIs were consumed by thousands of mobile to 
+        validate digital tickets and to ensure they were authorized for an event.
+    - role: Software Engineer
+      time: 2007 - 2011
+      company: Orange Business Services, Lyon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My main role was about developing in C and refactoring a Linux RHEL 3 tier 
+        application to command robots in supply chains 
+        deployed in several plants of Renault-Trucks. 
+        One feature I had to develop was to ensure data redundancy 
+        with help of archive logs in Oracle. 
+        Robots protocol and runtime constraints were also a true challenge 
+        I had to succeed, especially for maintenance 
+        with very short timeframe not to disrupt human chain production.
+    - role: Software Developer
+      time: 2004 - 2007
+      company: Dassault Systemes, Suresnes
+      details: |
+        My main role was about implementing and supporting APIs in C++ 
+        that partners at international consumed to enable electrical features 
+        within CATIA workbench. 
+        One feature I had to develop was to encapsulate 
+        an innovative and patented routing algorithm that use a topological space 
+        within the digital sketch and ensure a minimal usage of wires 
+        at best and green cost.
+    - role: Software Internship
+      time: 2004 - 2004
+      company: Dassault Systemes, Suresnes
+      details: |
+        Developing a Code-Generating tool based on a data model 
+        designed within Rational Rose XDE, 
+        an UML graphic editor embedded within Visual Studio and RAD.
 projects:
     title: Projects
     intro: >
