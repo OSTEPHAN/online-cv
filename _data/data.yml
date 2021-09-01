@@ -70,73 +70,76 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Sofware Development Team Leader 
+    - role: Senior Sofware Development Team Leader 
       time: 2016 - Present
       company: Orange, Mougins
       details: |
-        I am a technical leader involved in key strategic products 
-        that leverage skills and new ways of working within a team focused on data and AI. 
-        My main responsabilities are about designing a configurable voice assistant for different business units, 
-        consolidating tools for research upon edge AI, 
-        and also building features to automate data treatment during continuous delivery of projects. 
-        All of these projects are hosted on a private and internal cloud platform, 
-        but hybrid architecture is a target we are looking for with help of different identified providers. 
-        I am truly involved by the way with other companies in Sophia Antipolis to share open knowledge on these topics 
-        within an industrial consortium that aims to start cross-innovation. 
-        I prepare and present regular technical reviews to directors and even at group CEO level. 
-        My role in project is to lead and enhance a digital transformation transversal to the Group 
-        while propagating software culture and coding main components that 
-        will be baseline in present or future deliveries. 
-        I lead a team of dozen people dispatched in several projects 
-        that combine several forces from researchers, designers, developpers 
-        but also operationals. 
-        SAFe is a standard that we assume, 
-        but I often use to say that agility may be resumed in only three words 
-        adaptability, communication and collaboration.
-          - Software Craftmanship
-          - Servant Leadership
-          - Product Lifecycle Management
+        I am a technical leader involved in key strategic products that leverage skills and new ways of working within a team focused on data and AI. 
+        My main responsabilities are about designing a configurable voice assistant for different business units, consolidating tools for research upon edge AI, and also building features to automate data treatment during continuous delivery of projects. 
+        All of these projects are hosted on a private and internal cloud platform, but hybrid architecture is a target we are looking for with help of different identified providers. 
+        Contributing into european projects like Fiware with help of Hadoop ecosystem (at least HDFS, NIFI and KAFKA ). 
+        Extending CKAN, an opensource platform composed with Python modules, to catalog datasets stored in a PostgreSQL database and indexed with a Solr engine. 
+        Exploring and designing deep usecases with technologies like Anthos and Kubeflow for MLOps. 
+        Some examples of the activities I manage. 
+        I am truly involved by the way with other companies in Sophia-Antipolis to share open-knowledge on these topics within an industrial consortium that aims to start cross-innovation. 
+        These discussions raise notably constraints for each business on inference or learning at the edge. 
+        I daily then prepare and regularly present technical reviews to directors and even at group CEO level. 
+        My role in project is to lead and enhance a digital transformation transversal to the Group while propagating software culture and coding main components that will be baseline in present or future deliveries. 
+        Software Craftmanship, Servant Leadership, Product Lifecycle Management are three principles and guidelines I intend to share within team. 
+        In an entrepreunarial spirit I focus people to raise their skills by sharing same passion. 
+        I recruited this way a student in apprentice to explore Lambda architecture in order to improve team culture. 
+        Results conducted into SMACK comparative as a solution that we are dealing with internal web portal audience. 
+        I still keep a look in community discussion on these technologies and especially articles about K8ssandra as a potential next step. 
+        Always leveraging in regards of business needs and constraints led us from ELK for Big Data initiatives to conversational AI projects. 
+        I am truly then committed to align skills and find people or expertise in order to make innovation concrete towards success of modern usages. 
+        My true thinking is that digital chatbots and callbots virtualize a multimodal and omnichannel communication that unifies voice or text messages in a better experience for customer relationship
+        I lead a team of dozen people dispatched in several projects that combine several forces from researchers, designers, developpers but also operationals. 
+        SAFe is a standard that we assume, but I often use to say that agility may be resumed in only three words 
+          - adaptability
+          - communication
+          - collaboration 
     - role: Software Architect
       time: 2011 - 2016
       company: Orange Business Services, Valbonne
       details: |
-        My main role was about designing and consolidating a C# portfolio 
-        during all customer digital journey from ticket selling 
-        until access controlling in arenas like le Stade de France. 
-        One feature I had to develop with researchers was to provide APIs 
-        compliant with a newly protocol called NFC. 
-        These APIs were consumed by thousands of mobile to 
-        validate digital tickets and to ensure they were authorized for an event.
+        My main role was about designing and consolidating a C# portfolio during all customer digital journey from ticket selling until access controlling in arenas like le Stade de France. 
+        I reproduced here data constraints I encountered previous this experience. 
+        SQLServer logshipping strategy was then deployed to ensure consistency and backup. 
+        SSIS usage for legal constraints and reporting to the professional football league were also a functional need to integrate with. 
+        One another feature I had to develop with researchers was to provide APIs compliant with a newly protocol called NFC. 
+        These APIs were consumed by thousands of mobile to validate digital tickets and to ensure they were authorized for an event. 
+        I am particularly proud to have proposed and be listened at reuse software components in distributing stack to other .net developments. 
+        Code has been then audited from internal expert community and was shared as recommandation for C# developers. 
+        For example, implementation of the presales quote tooling suite is finally designed with these same librairies and concepts introducing .net Core and Domain Driven Design approach. 
+        These projects I technically led were running in a fully microsoft ecosystem, and especially Team Foundation Server, nowadays entitled Azure DevOps Server. 
     - role: Software Engineer
       time: 2007 - 2011
       company: Orange Business Services, Lyon
       details: |
-        My main role was about developing in C and refactoring a Linux RHEL 3 tier 
-        application to command robots in supply chains 
-        deployed in several plants of Renault-Trucks. 
-        One feature I had to develop was to ensure data redundancy 
-        with help of archive logs in Oracle. 
-        Robots protocol and runtime constraints were also a true challenge 
-        I had to succeed, especially for maintenance 
-        with very short timeframe not to disrupt human chain production.
+        My main role was about developing in C and refactoring a Linux RHEL 3-tier application to command robots in supply chains deployed in several plants of Renault-Trucks. 
+        One feature I had to develop was to ensure data redundancy with help of archive logs in Oracle. 
+        Robots protocol (mainly ModBus or JBus) and runtime constraints were also a true challenge I had to succeed, especially for maintenance with very short timeframe not to disrupt human chain production. 
+        Infrastructure was shared in a datacenter that provided computing resources for at least 5 plants dispatched in different locations in France. 
+        A configurable platform as a service was indeed deployed on a single infrastructure and enablers that were hosted and managed by a dedicated operational team I sometimes had to help and support 24/7. 
+        Virtualization based on VMWare was at the core of the solution to provide Oracle SQL instances for Windows or Linux instances for runtime applicative that managed Samba or MQTT protocol to share fabrication order files. 
     - role: Software Developer
       time: 2004 - 2007
       company: Dassault Systemes, Suresnes
       details: |
-        My main role was about implementing and supporting APIs in C++ 
-        that partners at international consumed to enable electrical features 
-        within CATIA workbench. 
-        One feature I had to develop was to encapsulate 
-        an innovative and patented routing algorithm that use a topological space 
-        within the digital sketch and ensure a minimal usage of wires 
-        at best and green cost.
+        My main role was about implementing and supporting APIs in C++ that partners at international consumed to enable electrical features within CATIA workbench. 
+        One feature I had to develop was to encapsulate an innovative and patented routing algorithm that use a topological space within the digital sketch and ensure a minimal usage of wires at best and green cost. 
+        Partnership was central to reach aeronautics and automative markets. Boeing and Toyota were indeed principal customers from which we got a special attention on their concrete needs in order to prioritize our backlog. 
+        In an agile way, I had to regurlarly deploy in a CI/CD approach on several configurations from Solaris to Windows and different versions from legacy V4 to prospective V6. 
+        Internal source code manager helped a lot for that with concepts of branch that are currently mainly approved as a standard in modern GitOps infrastructures. 
     - role: Software Internship
       time: 2004 - 2004
       company: Dassault Systemes, Suresnes
       details: |
-        Developing a Code-Generating tool based on a data model 
-        designed within Rational Rose XDE, 
-        an UML graphic editor embedded within Visual Studio and RAD.
+        My main role was about developing a C++ Code-Generating tool based on a data model designed within Rational Rose XDE, an UML graphic editor embedded within Visual Studio or Rational Application Developer. 
+        My tasks were mainly focused on understanding core model of ENOVIA components and how to draw or infer these data models into IDE thanks to COM meta-programming language and plugins deployed within Windows registry. 
+        My exploration and results drived me to initiate support tickets and establish exchange directly with IBM high-level support in order to solve technical issues. 
+        Lifecycle management of Rational legacy products into IBM roadmaps finally ended this software add-on. 
+        However conceptual function keeps to live as ENOVIA models, data versioning and sharing are in center of collaborative tools for CATIA V6 and 3D Experience. 
 projects:
     title: Projects
     intro: >
@@ -145,8 +148,17 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Orchard OData plugin
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://www.odata.org/blog/odata-org-weekly-news-letter-4th-week-2015/"
+        tagline: "Orchard is a Web CMS, which essentially aims at helping people to build web sites from existing pieces. 
+        Those pieces come in a few different sizes and shapes that need to be well understood if you're going to be productive with them. 
+        I designed and implemented a module that provides OData standard protocol and that enables third parties to query (custom) creatable content types embedded in an Orchard CMS Site. 
+        Challenge was to well understand metamodel of Orchard internal data source fragments. 
+        Keypoint was to transform OData request onto Hibernate HQL syntax with help of a visitor pattern while parsing syntactic EDM graph on the fly. 
+        I proposed to Committee steering a git pullrequest in order to integrate module within core functions. 
+        Status and maturity of OData at this stage were not enough stable and decision was to keep it as module and weak dependency. 
+        Several thousands of people have finally been deploying this module onto their personal or professional website. 
+        I am really proud of it, especially when OData is nowadays at baseline of programmatic APIs for Microsoft Graph on M365 platform. 
+        OData community identified on my contribution and published onto public technical blog. "
 
       - title: Thrarin
         link: "#"
